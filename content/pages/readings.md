@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each week of
+  the course along with associated study questions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -47,7 +49,7 @@ Scheindlin, Raymond P. _A Short History of the Jewish People: from Legendary Tim
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions1))
+({{% resource_link 7dfb5cc3-126c-89f0-e2f1-84d07663d6f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Finkelstein, Israel, and Neil Asher Silberman. _David and Solomon: In Search of 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions2))
+({{% resource_link 3d18a361-2cbf-8e9d-322a-7b308c3bd609 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ King, Philip J., and Lawrence E. Stager. _Life in Biblical Israel_. Louisville, 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions3))
+({{% resource_link 1be7db7e-13cf-1b0a-c07f-24aafce9fbf5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +122,7 @@ Berlin, Andrea M., and J. Andrew Overman, eds. _The First Jewish Revolt: Archaeo
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions4))
+({{% resource_link 1d0a4f68-5017-ec8d-bb66-fc2ddf222544 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +151,7 @@ Klinghoffer, David. _Why the Jews Rejected Jesus: the Turning Point in Western H
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions5))
+({{% resource_link 788a543b-9f22-26f1-1033-33fd5ed1d6c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +182,7 @@ Nuland, Sherwin B. _Maimonides_. New York, NY: Schocken, 2005. ISBN: 97808052420
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions6))
+({{% resource_link 9f19bcce-4fc3-02de-74bd-95ca34142c20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +222,7 @@ Cochran, Gregory, Jason Hardy, and Henry Harpending. "Natural History of Ashkena
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions8))
+({{% resource_link 235d984f-e853-07e6-4865-b6e447633edb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +247,7 @@ Davis, Natalie Z. "Arguing with God: Glikl bas Judah Leib." In _Women on the Mar
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions9))
+({{% resource_link 43bd5f53-7fa6-79d2-a08c-f6161b29ce6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +270,7 @@ Heller, Celia S. _On the Edge of Destruction: Jews of Poland Between the Two Wor
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions10))
+({{% resource_link d431bfc8-76a5-3bbb-d3a5-8b877479c306 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +303,7 @@ Satloff, Robert H. _Among the Righteous: Lost Stories from the Holocaust's Long 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions11))
+({{% resource_link b651bdc6-a093-e8b1-b9bb-da08d8380f81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +330,7 @@ Angrist, Joshua D. "Returns to Schooling in the West Bank and Gaza Strip." _Amer
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions12))
+({{% resource_link 11da6b3b-5778-f2b5-9b6a-4c59792cfc58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +369,7 @@ Slezkine, Yuri. _The Jewish Century_. Princeton, NY: Princeton University Press,
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions13))
+({{% resource_link c6bed062-078d-d31d-3994-9dd886b5aa49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

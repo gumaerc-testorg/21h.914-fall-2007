@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section provides information about the two writing assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, and information
+  about course requirements, grading criteria, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,13 +18,13 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2010, Peter Temin ([PDF]({{< baseurl >}}/resources/mit21h_914f07_syllf10))
+> Fall 2010, Peter Temin ({{% resource_link da09b931-100a-4fe0-5ae7-9d0390e1c863 "PDF" %}})
 > 
-> Fall 2009, Peter Temin ([PDF]({{< baseurl >}}/resources/mit21h_914f07_syllf09))
+> Fall 2009, Peter Temin ({{% resource_link 2b6fcff7-7e19-14d2-00a2-9a05dd7851bb "PDF" %}})
 > 
-> Fall 2008, Peter Temin ([PDF]({{< baseurl >}}/resources/mit21h_914f07_syllf08))
+> Fall 2008, Peter Temin ({{% resource_link b25675eb-c5ca-4d08-3058-9bb75247257c "PDF" %}})
 > 
-> Fall 2007, Peter Temin ([PDF]({{< baseurl >}}/resources/mit21h_914f07_syllf07))
+> Fall 2007, Peter Temin ({{% resource_link 6d15bf47-5e63-df4d-010e-09154b19bc61 "PDF" %}})
 
 Course Description
 ------------------
@@ -40,7 +42,7 @@ The subject requires two types of written exercises: papers and exams. Credit wi
 
 ### Papers
 
-This course requires two essays of about eight to ten pages each, due on Week #4 and Week #11. The first essay will be methodological, about the methods and sources of history. It is appropriate to write this paper early in the subject because the readings on the early years reveal the most varied historical evidence. The second paper will be an attempt for each student to answer the second question of the course: Why have Jews survived as a group? The paper should also discuss each student's relationship to a religion (whatever it may be), with attention to the long-term attractiveness of this religion as well as its current appeal. For more detailed instructions for the papers, please see [assignments]({{< baseurl >}}/pages/assignments).
+This course requires two essays of about eight to ten pages each, due on Week #4 and Week #11. The first essay will be methodological, about the methods and sources of history. It is appropriate to write this paper early in the subject because the readings on the early years reveal the most varied historical evidence. The second paper will be an attempt for each student to answer the second question of the course: Why have Jews survived as a group? The paper should also discuss each student's relationship to a religion (whatever it may be), with attention to the long-term attractiveness of this religion as well as its current appeal. For more detailed instructions for the papers, please see {{% resource_link 48039cce-b7f1-b246-4307-03c6eed06cd0 "assignments" %}}.
 
 ### Exams
 

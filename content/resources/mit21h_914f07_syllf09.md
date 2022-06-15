@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/2b6fcff77e1914d200a29a05dd7851bb_MIT21H_914f07_syllf09.pdf
+file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/2b6fcff77e1914d200a29a05dd7851bb_MIT21H_914f07_syllf09.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

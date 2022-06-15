@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the two exams of the course, each consisting of
+  a long question and a few short questions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
