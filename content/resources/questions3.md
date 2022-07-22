@@ -5,6 +5,7 @@ file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/1b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: questions3.pdf
 uid: 1be7db7e-13cf-1b0a-c07f-24aafce9fbf5
 ---
 Study questions for the lecture session on life in biblical Israel.
-

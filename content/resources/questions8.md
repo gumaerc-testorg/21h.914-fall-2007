@@ -5,6 +5,7 @@ file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/23
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: questions8.pdf
 uid: 235d984f-e853-07e6-4865-b6e447633edb
 ---
 Study questions for the lecture session on medieval Jews.
-

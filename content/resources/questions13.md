@@ -5,6 +5,7 @@ file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/c6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: questions13.pdf
 uid: c6bed062-078d-d31d-3994-9dd886b5aa49
 ---
 Study questions for the lecture session on Jews in the United States.
-
