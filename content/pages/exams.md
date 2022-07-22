@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the two exams of the course, each consisting of
+  a long question and a few short questions.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: c83ed6c1-f50c-fb3e-a437-2d8c62d59a0a
 ---
