@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides a comprehensive overview of Jewish history from
   Biblical times to today.
 file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/6d15bf475e63df4d010e09154b19bc61_MIT21H_914f07_syllf07.pdf
+file_size: 150692
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

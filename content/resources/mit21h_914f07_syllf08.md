@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about focus on two questions. First,
   how do we ?know? what we think we know of Jewish history?
 file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/b25675ebc5ca4d0830589bb75247257c_MIT21H_914f07_syllf08.pdf
+file_size: 51904
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

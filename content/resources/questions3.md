@@ -2,6 +2,7 @@
 content_type: resource
 description: Study questions for the lecture session on life in biblical Israel.
 file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/1be7db7e13cf1b0ac07f24aafce9fbf5_questions3.pdf
+file_size: 10209
 file_type: application/pdf
 learning_resource_types:
 - Readings
