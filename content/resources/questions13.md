@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on Jews in the United States.
-file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/c6bed062078dd31d39949dd886b5aa49_questions13.pdf
+file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/c6bed062078dd31d39949dd886b5aa49_questions13.pdf
 file_size: 13177
 file_type: application/pdf
 learning_resource_types:
