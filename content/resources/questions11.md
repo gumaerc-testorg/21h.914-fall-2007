@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on the the Holocaust.
-file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/b651bdc6a093e8b1b9bbda08d8380f81_questions11.pdf
+file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/b651bdc6a093e8b1b9bbda08d8380f81_questions11.pdf
 file_size: 12945
 file_type: application/pdf
 learning_resource_types:
