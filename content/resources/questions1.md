@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on the Torah.
-file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/7dfb5cc3126c89f0e2f184d07663d6f3_questions1.pdf
+file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/7dfb5cc3126c89f0e2f184d07663d6f3_questions1.pdf
 file_size: 12423
 file_type: application/pdf
 learning_resource_types:

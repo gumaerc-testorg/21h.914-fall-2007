@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on the bible as history.
-file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/3d18a3612cbf8e9d322a7b308c3bd609_questions2.pdf
+file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/3d18a3612cbf8e9d322a7b308c3bd609_questions2.pdf
 file_size: 10394
 file_type: application/pdf
 learning_resource_types:
