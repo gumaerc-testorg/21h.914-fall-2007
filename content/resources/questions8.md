@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on medieval Jews.
-file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/235d984fe85307e64865b6e447633edb_questions8.pdf
+file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/235d984fe85307e64865b6e447633edb_questions8.pdf
 file_size: 12814
 file_type: application/pdf
 learning_resource_types:

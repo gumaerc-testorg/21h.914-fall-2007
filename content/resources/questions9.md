@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the lecture session on early modern Jewry.
-file: /courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/43bd5f537fa679d2a08cf6161b29ce6b_questions9.pdf
+file: /ol-ocw-studio-app/courses/21h-914-jewish-history-from-biblical-to-modern-times-fall-2007/43bd5f537fa679d2a08cf6161b29ce6b_questions9.pdf
 file_size: 13187
 file_type: application/pdf
 learning_resource_types:
