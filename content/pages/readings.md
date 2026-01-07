@@ -92,7 +92,7 @@ King, Philip J., and Lawrence E. Stager. _Life in Biblical Israel_. Louisville, 
 
 ### Recommended
 
-{{% resource_link "693de55c-d201-40ba-81e9-71292f70d6d9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Temin, Peter. "Mediterranean Trade in Biblical Times." Chapter 6 in {{% resource_link "693de55c-d201-40ba-81e9-71292f70d6d9" "_Eli F. Heckscher, International Trade, and Economic History_" %}}. Edited by Ronald Findlay, Rolf Henriksson, Håkan Lindgren, and Mats Lundahl. Cambridge, MA: MIT Press, 2006, pp. 141-156. ISBN: 9780262062510.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262062510) Temin, Peter. "Mediterranean Trade in Biblical Times." Chapter 6 in [_Eli F. Heckscher, International Trade, and Economic History_](https://mitpress.mit.edu/9780262062510). Edited by Ronald Findlay, Rolf Henriksson, Håkan Lindgren, and Mats Lundahl. Cambridge, MA: MIT Press, 2006, pp. 141-156. ISBN: 9780262062510.
 
 
 {{< tdclose >}}
